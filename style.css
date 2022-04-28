@@ -1,3 +1,6 @@
+*{
+	box-sizing:border-box;
+}
 body {
 	padding-top:1vh;
 	min-height:100vh;
